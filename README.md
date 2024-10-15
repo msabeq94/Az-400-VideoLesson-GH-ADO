@@ -1,2 +1,2 @@
 # Az-400-VideoLesson-GH-ADO
-integration GH with ADO
+integrating GH with ADO
